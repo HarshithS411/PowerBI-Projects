@@ -1,0 +1,21 @@
+Key Performance Indicators (KPIs):
+	• Top 10 Most Streamed Songs: Display the song names, artists, and total streams for the 10 most-streamed tracks.
+	• Most Streamed Artists: List the artists with the highest overall stream counts for their songs.
+	• Most Popular Genres: Show the most commonly streamed genres, based on song categorizations.
+	• Average Streams per Song: Calculate the average number of streams across all songs in the dataset.
+
+Visualizations:
+	• Stream Distribution: Create a histogram or bar chart to visualize the distribution of streams across all songs.
+	• Monthly Streaming Trends: Chart the total streams per month to visualize how listening patterns changed throughout the year.
+	• Correlations: Explore relationships between audio features (e.g., danceability, energy, valence) and streams using scatter plots 	or correlation matrices.
+
+Filters and Interactions:
+	• Genre Filters: Allow users to filter the dashboard data based on specific genres.
+	• Artist Search: Provide a search bar for users to find songs or artists of interest.
+	• Song Details: Enable users to click on individual songs to view more details, such as audio features and release information.
+
+Additional Insights:
+	• Breakdown by Month: Analyze the most streamed songs and artists for each month of 2023.
+	• Emerging Artists: Identify artists who gained significant popularity during the year.
+	• Audio Feature Trends: Explore how different audio features (e.g., tempo, danceability) are associated with streaming success.
+	Predictive Modeling: If applicable, consider using machine learning to predict future streaming trends based on the dataset.

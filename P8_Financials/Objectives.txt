@@ -1,0 +1,5 @@
+1. KPI of Total units sold, Total sales, Total profits, Total COGS
+2. Graph of Segment and units sold
+3. Map of Country and Gross Sales
+4. YOY area chart units sold
+5. Products and total sale

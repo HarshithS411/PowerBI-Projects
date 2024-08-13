@@ -1,0 +1,4 @@
+1. World population total in blood groups
+2. Map of countries and population
+3. KPI of Highest blood group in each and total population
+4. Alphabetical order of countries and they blood groups

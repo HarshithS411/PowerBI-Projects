@@ -1,0 +1,8 @@
+1. Countries having highest cases
+2. Countries with highest deaths
+3. Country with high recovery rate
+4. Percentage active cases among countries
+5. KPM of  deaths / 100 case, recovered / 100 cases, deaths / 100 recovered
+6. Map on WHO regions
+7. Map of global case
+8. Graph on case and deaths

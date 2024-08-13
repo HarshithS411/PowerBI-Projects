@@ -1,0 +1,23 @@
+1. Top Performers:
+	• Show me the top-selling games based on several metrics: units sold, global revenue, and review score.
+	• Can we break this down further by platform and year? I'm curious to see how platforms and release timing impact success.
+
+2. Genre Breakdown:
+	• Let's visualize the performance of different genres. Pie charts or stacked bar charts could be helpful here.
+	• I'd like to see how genre popularity might vary across different regions (North America, Europe, Japan, etc.).
+
+3. Regional Focus:
+	• Can we explore regional differences in game preferences? Charts comparing top-selling games across regions would be fantastic.
+	• It would be great to see how much each region contributes to overall revenue and unit sales.
+
+4. Platform Comparison:
+	• I'm interested in comparing platforms in terms of market share and genre dominance. Bar charts or scatter plots could work well 	for this.
+	• Can we track how platform trends evolve over time? Seeing the rise and fall of popular platforms would be fascinating.
+
+5. Critical Acclaim:
+	• Highlight the games with the highest review scores and see how they correlate with sales success.
+	• It would be interesting to identify any potential discrepancies between critical reception and commercial performance.
+
+6. Interactive Enhancements:
+	• If possible, I'd appreciate filters and drill-down options to explore the data more deeply. For example, filtering by publisher or 	release date could be valuable.
+	A visually appealing and user-friendly design would be a huge plus. Think clear charts, intuitive navigation, and engaging visuals.

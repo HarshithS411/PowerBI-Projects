@@ -1,0 +1,8 @@
+1. KPI of total car made
+2. Using DAX make KPI of each car brand total number of made
+3. Most made car by year 
+4. Most made cars by brand
+5. Customer's fav color of choice
+6. AVG mileage of the car
+7. AVG price of the car 
+8. Map on location car made

@@ -1,0 +1,5 @@
+1. KPI of total cars sold , AVG of distance car traveled, AVG price of car being sold  
+2. Highest brand car sold
+3. Pie chat of manual or automatic in %
+4. What type of car customer refer most 
+5. Highest year Sale occurred 
